@@ -1,3 +1,5 @@
+// PRIM'S ALGO
+
 int spanningTree(int V, vector<vector<int>> adj[])
     {
         vector<int> vis(V,0);
